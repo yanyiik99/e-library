@@ -1,0 +1,14 @@
+
+.product-items {
+    width: 18rem !important;
+    max-height: fit-content !important;
+    box-shadow: 0 0 10px 3px rgb(250, 225, 225);
+    padding: 1rem;
+    text-align: center;
+    max-height: fit-content !important;
+}
+
+.product-items .product-img {
+    border-radius: 0px !important;
+    height: 20rem !important;
+}

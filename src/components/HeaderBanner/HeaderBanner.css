@@ -1,0 +1,22 @@
+body {
+  overflow-x: hidden !important;
+}
+
+img {
+  pointer-events: none !important;
+}
+
+.left-banner h1 {
+  font-size: 50px;
+}
+
+.left-banner h1 span {
+  color: #E96F00;
+}
+
+.top-book div {
+  transform: scale(1.5);
+}
+
+
+
